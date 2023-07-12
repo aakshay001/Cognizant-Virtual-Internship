@@ -1,6 +1,8 @@
 # Cognizant-Virtual-Internship
 Artificial Intelligence virtual internship program by Cognizant through Forage!
 
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUqCnUteEi5cCWP9rjXXbZyM89Pe4AKnvp_Q&usqp=CAU)
+
 TASK 1:  EDA 
 
 TASK 2: Understanding the Relational Data 
